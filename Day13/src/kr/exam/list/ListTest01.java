@@ -37,7 +37,7 @@ public final class ListTest01 {
 		// 단순 출력
 		System.out.println(list2);
 		
-		// 특정 위치 값을 꺼내기 - get(index);
+		// 특정 위치 값을 꺼내기 - get(index);   
 		for(int i=0;i<list2.size();i++) {    // list는 length를 못쓴다
 			System.out.println(list2.get(i));
 		}
